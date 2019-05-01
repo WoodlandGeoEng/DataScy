@@ -1,4 +1,4 @@
 # DataScy
 RoboGarden ML Repisitory 
 
-# Repisotory for RoboGarden missions and project solutions
+# Repisotory for RoboGarden mission and project solutions
